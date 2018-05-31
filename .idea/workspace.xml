@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26904878-180d-4cf5-8f12-24536a9249a9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="getInstalledAppList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+                <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-570">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.properties" />
+        <option value="$PROJECT_DIR$/src/org/roman/proglist/WinRegistry.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy" />
+        <option value="$PROJECT_DIR$/src/org/roman/proglist/CookieSender.java" />
+        <option value="$PROJECT_DIR$/main.sql" />
+        <option value="$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java" />
+        <option value="$PROJECT_DIR$/src/org/roman/proglist/Main.java" />
+        <option value="$PROJECT_DIR$/server.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="832" />
+    <option name="height" value="411" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProgList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="proglist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Libraries/selenium-chrome-driver-2.32.0.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.roman.proglist.Main" />
+      <module name="ProgList" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="getInstalledAppList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.roman.proglist.getInstalledAppList" />
+      <module name="ProgList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.roman.proglist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.getInstalledAppList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.getInstalledAppList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26904878-180d-4cf5-8f12-24536a9249a9" name="Default" comment="" />
+      <created>1527430073924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527430073924</updated>
+      <workItem from="1527430079114" duration="5068000" />
+      <workItem from="1527612735069" duration="4007000" />
+      <workItem from="1527662793868" duration="6742000" />
+      <workItem from="1527771421810" duration="707000" />
+      <workItem from="1527773328473" duration="1523000" />
+      <workItem from="1527776987267" duration="624000" />
+      <workItem from="1527777648771" duration="2537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21208000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49887893" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5011211" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3295964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="50" selection-start-line="75" selection-start-column="50" selection-end-line="75" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/CookieSender.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="18" lean-forward="true" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9537">
+          <caret line="561" column="11" selection-start-line="561" selection-start-column="11" selection-end-line="561" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/CookieSender.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/WinRegistry.java" />
+    <entry file="file://$PROJECT_DIR$/main.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/swing/DefaultListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3533">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9849">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="106" column="42" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Libraries/selenium-chrome-driver-2.32.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Libraries/selenium-chrome-driver-2.32.0.jar!/org/openqa/selenium/chrome/ChromeCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Libraries/selenium-chrome-driver-2.32.0.jar!/org/openqa/selenium/chrome/ChromeDriverService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Libraries/selenium-chrome-driver-2.32.0.jar!/org/openqa/selenium/chrome/ChromeOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="1145" lean-forward="true" selection-start-line="1145" selection-end-line="1145" />
+          <folding>
+            <element signature="docComment;class#Stream#0" />
+            <element signature="docComment;method#filter#0;class#Stream#0" />
+            <element signature="docComment;method#map#0;class#Stream#0" />
+            <element signature="docComment;method#mapToInt#0;class#Stream#0" />
+            <element signature="docComment;method#mapToLong#0;class#Stream#0" />
+            <element signature="docComment;method#mapToDouble#0;class#Stream#0" />
+            <element signature="docComment;method#flatMap#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToInt#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToLong#0;class#Stream#0" />
+            <element signature="docComment;method#flatMapToDouble#0;class#Stream#0" />
+            <element signature="docComment;method#distinct#0;class#Stream#0" />
+            <element signature="docComment;method#sorted#0;class#Stream#0" />
+            <element signature="docComment;method#sorted#1;class#Stream#0" />
+            <element signature="docComment;method#peek#0;class#Stream#0" />
+            <element signature="docComment;method#limit#0;class#Stream#0" />
+            <element signature="docComment;method#skip#0;class#Stream#0" />
+            <element signature="docComment;method#forEach#0;class#Stream#0" />
+            <element signature="docComment;method#forEachOrdered#0;class#Stream#0" />
+            <element signature="docComment;method#toArray#0;class#Stream#0" />
+            <element signature="docComment;method#toArray#1;class#Stream#0" />
+            <element signature="docComment;method#reduce#0;class#Stream#0" />
+            <element signature="docComment;method#reduce#1;class#Stream#0" />
+            <element signature="docComment;method#reduce#2;class#Stream#0" />
+            <element signature="docComment;method#collect#0;class#Stream#0" />
+            <element signature="docComment;method#collect#1;class#Stream#0" />
+            <element signature="docComment;method#min#0;class#Stream#0" />
+            <element signature="docComment;method#max#0;class#Stream#0" />
+            <element signature="docComment;method#count#0;class#Stream#0" />
+            <element signature="docComment;method#anyMatch#0;class#Stream#0" />
+            <element signature="docComment;method#allMatch#0;class#Stream#0" />
+            <element signature="docComment;method#noneMatch#0;class#Stream#0" />
+            <element signature="docComment;method#findFirst#0;class#Stream#0" />
+            <element signature="docComment;method#findAny#0;class#Stream#0" />
+            <element signature="docComment;method#builder#0;class#Stream#0" />
+            <element signature="docComment;method#empty#0;class#Stream#0" />
+            <element signature="docComment;method#of#0;class#Stream#0" />
+            <element signature="docComment;method#of#1;class#Stream#0" />
+            <element signature="e#45565#45577#0" />
+            <element signature="docComment;method#iterate#0;class#Stream#0" />
+            <element signature="method#iterate#0;class#Stream#0" />
+            <element signature="docComment;method#generate#0;class#Stream#0" />
+            <element signature="method#generate#0;class#Stream#0" />
+            <element signature="docComment;method#concat#0;class#Stream#0" />
+            <element signature="method#concat#0;class#Stream#0" />
+            <element signature="docComment;class#Builder#0;class#Stream#0" />
+            <element signature="class#Builder#0;class#Stream#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55278">
+          <caret line="4051" column="1" lean-forward="true" selection-start-line="4051" selection-start-column="1" selection-end-line="4051" selection-end-column="1" />
+          <folding>
+            <element signature="e#2439#3206#0" />
+            <element signature="e#2439#3518#0" />
+            <element signature="e#3524#3656#0" />
+            <element signature="e#3524#4131#0" />
+            <element signature="e#4487#4989#0" />
+            <element signature="e#152429#153319#0" />
+            <element signature="e#152429#153570#0" />
+            <element signature="e#153576#154466#0" />
+            <element signature="e#153576#154721#0" />
+            <element signature="e#154727#155638#0" />
+            <element signature="e#154727#155897#0" />
+            <element signature="e#155903#157607#0" />
+            <element signature="e#155903#157812#0" />
+            <element signature="e#157818#159810#0" />
+            <element signature="e#157818#160413#0" />
+            <element signature="e#160419#161980#0" />
+            <element signature="e#160419#162374#0" />
+            <element signature="e#162380#163942#0" />
+            <element signature="e#162380#164340#0" />
+            <element signature="e#164346#165901#0" />
+            <element signature="e#164346#166291#0" />
+            <element signature="e#166297#167853#0" />
+            <element signature="e#166297#168247#0" />
+            <element signature="e#168253#169825#0" />
+            <element signature="e#168253#170219#0" />
+            <element signature="e#170225#171781#0" />
+            <element signature="e#170225#172179#0" />
+            <element signature="e#172185#173741#0" />
+            <element signature="e#172185#174143#0" />
+            <element signature="e#174149#175717#0" />
+            <element signature="e#174149#176123#0" />
+            <element signature="e#176142#176917#0" />
+            <element signature="e#176922#176934#0" />
+            <element signature="e#177061#177095#0" />
+            <element signature="e#177061#179573#0" />
+            <element signature="e#179579#180359#0" />
+            <element signature="e#179579#180658#0" />
+            <element signature="e#180664#181455#0" />
+            <element signature="e#180664#181671#0" />
+            <element signature="e#181677#182459#0" />
+            <element signature="e#181677#182679#0" />
+            <element signature="e#182685#183470#0" />
+            <element signature="e#182685#183688#0" />
+            <element signature="e#183694#184474#0" />
+            <element signature="e#183694#184692#0" />
+            <element signature="e#184698#185484#0" />
+            <element signature="e#184698#185724#0" />
+            <element signature="e#185730#186512#0" />
+            <element signature="e#185730#186754#0" />
+            <element signature="e#186760#187544#0" />
+            <element signature="e#186760#187855#0" />
+            <element signature="e#187861#188868#0" />
+            <element signature="e#187861#189126#0" />
+            <element signature="e#189132#190696#0" />
+            <element signature="e#189132#192030#0" />
+            <element signature="e#192036#193732#0" />
+            <element signature="e#192036#194411#0" />
+            <element signature="e#194417#195642#0" />
+            <element signature="e#195648#196262#0" />
+            <element signature="e#195648#196692#0" />
+            <element signature="e#196698#197311#0" />
+            <element signature="e#196698#197740#0" />
+            <element signature="e#197746#198361#0" />
+            <element signature="e#197746#198792#0" />
+            <element signature="e#198798#199412#0" />
+            <element signature="e#198798#199842#0" />
+            <element signature="e#199848#200462#0" />
+            <element signature="e#199848#200892#0" />
+            <element signature="e#200898#201515#0" />
+            <element signature="e#200898#201948#0" />
+            <element signature="e#201954#202569#0" />
+            <element signature="e#201954#203001#0" />
+            <element signature="e#203007#203623#0" />
+            <element signature="e#203007#204055#0" />
+            <element signature="e#204061#204803#0" />
+            <element signature="e#204061#205252#0" />
+            <element signature="e#205258#206918#0" />
+            <element signature="e#205258#207286#0" />
+            <element signature="e#207292#209466#0" />
+            <element signature="e#209473#210046#0" />
+            <element signature="e#209473#210268#0" />
+            <element signature="e#210274#210900#0" />
+            <element signature="e#210274#211142#0" />
+            <element signature="e#211148#211673#0" />
+            <element signature="e#211148#211890#0" />
+            <element signature="e#211896#212467#0" />
+            <element signature="e#211896#212704#0" />
+            <element signature="e#212710#213235#0" />
+            <element signature="e#212710#213455#0" />
+            <element signature="e#213461#214039#0" />
+            <element signature="e#213461#214279#0" />
+            <element signature="e#214285#214810#0" />
+            <element signature="e#214285#215036#0" />
+            <element signature="e#215042#215620#0" />
+            <element signature="e#215042#215866#0" />
+            <element signature="e#215872#216312#0" />
+            <element signature="e#215872#216513#0" />
+            <element signature="e#216519#217364#0" />
+            <element signature="e#216519#217633#0" />
+            <element signature="e#217639#218050#0" />
+            <element signature="e#217639#218252#0" />
+            <element signature="e#218258#219074#0" />
+            <element signature="e#218258#219344#0" />
+            <element signature="e#219350#219764#0" />
+            <element signature="e#219350#219968#0" />
+            <element signature="e#219974#220791#0" />
+            <element signature="e#219974#221063#0" />
+            <element signature="e#221069#221490#0" />
+            <element signature="e#221069#221698#0" />
+            <element signature="e#221704#222523#0" />
+            <element signature="e#221704#222799#0" />
+            <element signature="e#222805#223093#0" />
+            <element signature="e#223204#223903#0" />
+            <element signature="e#223204#224093#0" />
+            <element signature="e#224099#224345#0" />
+            <element signature="e#224454#225111#0" />
+            <element signature="e#225308#225555#0" />
+            <element signature="e#225666#226324#0" />
+            <element signature="e#226524#226775#0" />
+            <element signature="e#226890#227552#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Shutdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2989">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149750">
+          <caret line="561" column="11" selection-start-line="561" selection-start-column="11" selection-end-line="561" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/ext/nashorn.jar!/jdk/nashorn/tools/ShellFunctions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/ext/nashorn.jar!/jdk/nashorn/tools/Shell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="164" column="25" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/CookieSender.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/getInstalledAppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrentUserPersonalFolderPath#0;class#getInstalledAppList#0" />
+            <element signature="class#StreamReader#0;class#getInstalledAppList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/roman/proglist/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProgList</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.23.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
